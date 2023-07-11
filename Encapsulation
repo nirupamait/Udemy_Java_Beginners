@@ -1,0 +1,7 @@
+
+Encapsulation :: Wrapping up of data inside class to prevent it from being modified outside of class.
+Advantages::
+-->Data Hiding:: Variable can not be modified directly.
+-->Read only and write only variables.
+-->Easy to change through variables instead of direct usage.
+-->Testing is much easier.
